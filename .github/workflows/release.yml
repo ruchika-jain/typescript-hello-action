@@ -24,5 +24,5 @@ jobs:
       - name: Running action
         uses: actions-on-packages/package-action@ruchika-jain/add-path-input
 #         uses: actions-on-packages/package-action@test-action
-#         with:
-#           path: 'src/'
+        with:
+          path: 'dist/ action.yml'
